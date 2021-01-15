@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rdoMale" type="id" />
+    <item name="rdoFemale" type="id" />
+    <item name="icHome" type="id" />
+    <item name="icAddStudent" type="id" />
+    <item name="icAbout" type="id" />
+</resources>
